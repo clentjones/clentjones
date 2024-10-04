@@ -3,7 +3,7 @@
 
 Welcome to my GitHub repository! 
 
-I am a passionate and dedicated cybersecurity professional with experience in risk assessment, security audits, and incident response. With certifications in CompTIA Security+, Network+, Server+, Google Cybersecurity, and proficiency in Python, SQL, and Linux Bash, I continuously strive to expand my expertise with the intention of contributing to the cybersecurity community.
+I am a passionate and dedicated Cybersecurity & IT Solutions professional with experience in risk assessment, security audits, and incident response. With certifications in CompTIA Security+, Network+, Server+, Google Cybersecurity, and proficiency in Python, SQL, and Linux Bash, I continuously strive to expand my expertise with the intention of contributing to the cybersecurity community.
 
 
 Throughout my career, I have successfully improved operational efficiencies, enhanced IT infrastructure security, and collaborated with cross-functional teams to achieve significant results. My educational background along side my work experience at ADNA Technologies, Hanwha Techwin, and the University of Houston has equipped me with a deep understanding of the cybersecurity landscape and the ability to address complex security challenges.
