@@ -46,7 +46,7 @@ Let's connect and work together to make the digital world a safer place!
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    
 </div>
 
 ## Certifications
