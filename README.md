@@ -3,7 +3,7 @@
 
 Welcome to my GitHub repository! 
 
-I am a passionate and dedicated Cybersecurity & AI Solutions professional with experience in remote infrastructure support, cloud management, risk assessment, and security audits. With certifications in Google IT Automation with Python, Google Cybersecurity, Oracle Cloud Infrastructure Generative AI Professional, and CompTIA Security+, Network+, Server+, I continuously strive to expand my expertise with the intention of contributing to the cybersecurity/AI community.
+I am a passionate and dedicated Cybersecurity & AI Solutions professional with experience in remote infrastructure support, cloud management, risk assessment, and security audits. With certifications in Google IT Automation with Python, Google Cybersecurity, Oracle Cloud Infrastructure Generative AI Professional, and CompTIA Security+, Network+, Server+, I continuously strive to expand my expertise with the intention of contributing to the Cybersecurity/AI community.
 
 
 Throughout my career, I have successfully improved operational efficiencies, enhanced IT infrastructure network security, and collaborated with cross-functional teams to achieve significant results. My educational background along side my work experience at Adna Technologies, Hanwha Techwin, and the University of Houston has equipped me with a deep understanding of cybersecurity & IT landscapes coincided with the ability to address complex challenges.
