@@ -21,7 +21,7 @@ Let's connect and work together to make the digital world a safer place!
 |-----------------------------------------------|----------------------------|
 | SIEM and Security Monitoring          | <a href="https://academy.hackthebox.com/achievement/badge/752008be-41da-11ef-b18d-bea50ffe6cb4">HTB Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://academy.hackthebox.com/achievement/badge/662582d5-468a-11ef-b18d-bea50ffe6cb4">HTB Lab</a>|
-| Automation with Python                        | <a|href="https://www.credly.com/badges/011de0c9-a5b0-4db1-9dde-ab85fa1e3ee8/linked_in_profile">Google IT Automation</a>
+| Automation with Python                        | <a href="https://www.credly.com/badges/011de0c9-a5b0-4db1-9dde-ab85fa1e3ee8/linked_in_profile">Google IT Automation</a>|
 | Incident Response Planning and Execution      | In-Progress|
 | Governance, Risk, Compliance                  | In-Progress|
 
